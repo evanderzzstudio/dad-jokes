@@ -1,1 +1,1 @@
-const a = 10
+const jokeEl = document.getElementById('joke')
