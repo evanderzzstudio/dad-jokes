@@ -34,18 +34,18 @@ h3 {
 }
 
 .joke {
-    font-size: 40px;
-    letter-spacing: 1px;
-    line-height: 80px;
-    margin: 50px auto;
+    font-size: 30px;
+    letter-spacing: 3px;
+    line-height: 90px;
+    margin: 60px auto;
     max-width: 600px;
 }
 
 .btn {
-    background-color: #cdb3eb;
-    color: #000000;
+    background-color: rgb(86, 116, 227);
+    color: #ffffff;
     border: 0;
-    border-radius: 5px;
+    border-radius: 100px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
     padding: 14px 40px;
     font-size: 20px;
